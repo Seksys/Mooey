@@ -1,0 +1,8 @@
+E:\tep\Source\Repos\Mooey\Mooey\bin\Debug\Mooey.exe.config
+E:\tep\Source\Repos\Mooey\Mooey\bin\Debug\Mooey.exe
+E:\tep\Source\Repos\Mooey\Mooey\bin\Debug\Mooey.pdb
+E:\tep\Source\Repos\Mooey\Mooey\obj\Debug\Mooey.csprojResolveAssemblyReference.cache
+E:\tep\Source\Repos\Mooey\Mooey\obj\Debug\Mooey.Properties.Resources.resources
+E:\tep\Source\Repos\Mooey\Mooey\obj\Debug\Mooey.csproj.GenerateResource.Cache
+E:\tep\Source\Repos\Mooey\Mooey\obj\Debug\Mooey.exe
+E:\tep\Source\Repos\Mooey\Mooey\obj\Debug\Mooey.pdb
